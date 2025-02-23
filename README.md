@@ -86,7 +86,9 @@ python stitching.py
 
 - **Part 1**: Detected coins with segmentation and total count displayed.  
 ***Detected Coins***
-- ![detected_coins](output_images/detected_coins.png)
+  ![detected_coins](output_images/detected_coins.png)
+***Detected Coins***
+  ![detected_coins](output_images/segmented_coins.png)
 - **Part 2**: Final stitched panorama from the input images.
 
 ---
