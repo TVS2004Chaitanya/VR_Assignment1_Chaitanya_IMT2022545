@@ -89,7 +89,14 @@ python stitching.py
   ![detected_coins](output_images/detected_coins.png)  
 ***Segmented Coins***  
   ![detected_coins](output_images/segmented_coins.png)  
-- **Part 2**: Final stitched panorama from the input images.
+- **Part 2**: Final stitched panorama from the input images.  
+  ***Detected KeyPoints***  
+  ![detected_coins](output_images/Keypoints.png)
+  ***Image Matches***  
+  ![detected_coins](output_images/Image_Matches.png)
+  ***Final Panorama***
+  ![detected_coins](output_images/Final_Panorama.png)
+  
 
 ---
 
